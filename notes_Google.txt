@@ -1,0 +1,81 @@
+
+  Algorithms and data structures
+
+  1.  Queue
+    BFS
+    DFS
+    Recursion
+  2.  lower bound on avg # of sorts
+    sorts
+
+
+  Mary asked "networking, algorithms, or UNIX/Linux"
+
+
+
+
+
+
+
+
+  TODO: ask clarifying questions
+    ~ 2 weeks 2 prep for the phone screen.
+
+
+
+
+
+
+
+
+
+  6-8 weeks (whole process)
+    ~ 2 weeks to prep for the phone screen interview
+
+
+  April 29, April 30th
+
+
+
+
+  MIT article (45 minute technical interview)
+    20 lines of code
+
+  Hackerrank
+  leetcode
+
+  Google relocation team
+    Finds you a place to live.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
